@@ -1,0 +1,62 @@
+.container{
+  margin-bottom: 40px;
+}
+.Upper-side{
+    display: flex;
+    margin: 15px 0;
+}
+h3{
+    margin: 10px 0;
+}
+h6{
+    margin: 0 3px;
+}
+
+.navbar-brand{
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #511281 !important;
+}
+span{
+    text-decoration-line: underline ;
+    margin-top: 10px !important;
+}
+.nav-item .nav-link{
+    font-weight: 500;
+}
+.nav-item .btn{
+    font-weight: 600;
+}
+.auto{
+    margin-left: auto;
+}
+
+.middel-side{
+    background-color: #511281;
+    color: white;
+    text-align: center;
+    padding: 110px 0;
+    border-radius: 0 0 30% 15%;
+}
+.content{
+    padding-bottom: 20px;
+}
+input{
+    height: 50px;
+    width: 700px;
+    margin: 40px 0 25px 0;
+    border: none;
+}
+p{
+    opacity: 0.6;
+    padding: 0 10px;
+}
+i{
+   color: yellow;
+   padding: 0 5px;
+}
+
+
+.bottom{
+    display: flex;
+}
